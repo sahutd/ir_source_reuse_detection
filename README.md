@@ -7,3 +7,5 @@ Import project to your favorite IDE like Eclipse or IntelliJ( the libraries requ
 Add your test Java classes into the src/queryset folder
 
 Run the program and select the classes you want to compare with in the GUI
+
+![Sample Gui Screenshot](gui.png)
